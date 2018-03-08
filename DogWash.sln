@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogWash", "DogWash\DogWash.csproj", "{5A46CF8C-5FBC-475A-AA59-4D8E4F0C7B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogWash.Tests", "DogWash.Tests\DogWash.Tests.csproj", "{B95C7047-6D5A-44F0-941E-FC57A4EB0039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A46CF8C-5FBC-475A-AA59-4D8E4F0C7B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A46CF8C-5FBC-475A-AA59-4D8E4F0C7B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A46CF8C-5FBC-475A-AA59-4D8E4F0C7B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A46CF8C-5FBC-475A-AA59-4D8E4F0C7B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95C7047-6D5A-44F0-941E-FC57A4EB0039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95C7047-6D5A-44F0-941E-FC57A4EB0039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95C7047-6D5A-44F0-941E-FC57A4EB0039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95C7047-6D5A-44F0-941E-FC57A4EB0039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7E1F982-75CD-4302-BA1A-668B772A33CB}
+	EndGlobalSection
+EndGlobal
